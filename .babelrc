@@ -13,6 +13,8 @@
           "@components": "./src/components",
           "@constants": "./src/constants",
           "@hooks": "./src/hooks",
+          "@utilities": "./src/utilities",
+          "@services": "./src/services",
           "@models": "./src/models"
         }
       }
